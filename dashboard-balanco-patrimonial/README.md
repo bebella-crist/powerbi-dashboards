@@ -10,5 +10,5 @@ Representar um Balanço Patrimonial no Power BI explorando as funcionalidades do
 # Visualizações 
 - Matriz
 
-# Screenshots
-![Visão Geral](sreenshot/overview8.png)
+# Screenshot
+![Visão Geral](screenshot/overview8.png)
