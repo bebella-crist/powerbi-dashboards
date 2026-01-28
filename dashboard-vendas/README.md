@@ -15,4 +15,4 @@ Base de Vendas
 - Segmentadores
 
 # Screenshots
-![Visão Geral](screenshots/overview.png) 
+![Visão Geral](screenshot/overview.png) 
