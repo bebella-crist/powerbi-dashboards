@@ -30,3 +30,4 @@ Dados Financeiros (XLSX)
 - Principais influenciadores
 
 # Screenshot
+![Visão Geral](screenshot/overview7.png)
