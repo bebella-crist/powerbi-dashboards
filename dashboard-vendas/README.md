@@ -15,4 +15,4 @@ Base de Vendas
 - Segmentadores
 
 # Screenshots
-![Visão Geral](screenshots/overview.png) 
+![Visão Geral](dashboard-vendas/Captura de Tela 2026-01-28 às 08.54.57.png) 
