@@ -22,3 +22,4 @@ Mostrar qual foi o total de valor venda considerando cada modo de envio dos pedi
 - Segmentadores
 
 # Sreenshots
+![Visão Geral](screenshots/overview2.png)
