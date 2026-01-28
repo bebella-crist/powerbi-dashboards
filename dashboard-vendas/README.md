@@ -13,3 +13,6 @@ Base de Vendas
 - Gráfico de barras empilhadas
 - Mapa
 - Segmentadores
+
+# Screenshots
+![Visão Geral](screenshots/overview.png) 
