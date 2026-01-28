@@ -24,3 +24,4 @@ Média de Close MoM
  - Segmentação
 
 # Screenshot 
+![Visão Geral](screenshot/overview9.png)
